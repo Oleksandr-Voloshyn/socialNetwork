@@ -1,0 +1,17 @@
+
+.nav {
+  grid-area: n;
+  background-color: deepskyblue;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+.item a.activeLink{
+  color: black;
+}
+
+.friends {
+  margin-top: 30px;
+}
